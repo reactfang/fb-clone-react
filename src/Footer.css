@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* width: 100%;
+  margin: 0 auto; */
+}
+
+ul {
+  list-style-type: none;
+}
+.language {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  border-bottom: solid black 0.2px;
+}
+
+button {
+  font-size: 10px;
+}

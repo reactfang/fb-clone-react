@@ -21,7 +21,7 @@ class Header extends Component {
                 </tr>
                 <tr>
                   <td>
-                    <input type="text" placeholder="email" />
+                    <input type="text" placeholder="email or phone" />
                   </td>
                   <td>
                     <input type="password" placeholder="password" />
