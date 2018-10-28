@@ -43,7 +43,10 @@ class Header extends Component {
                 <tr>
                   <td />
                   <td>
-                    <a style={{ color: "#9cb4d8", fontSize: "12px" }} href="#">
+                    <a
+                      style={{ color: "#9cb4d8", fontSize: "12px" }}
+                      href="https://www.facebook.com/login/identify?ctx=recover&lwv=110&ars=royal_blue_bar"
+                    >
                       Lupa Akun?
                     </a>
                   </td>
