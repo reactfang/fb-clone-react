@@ -6,44 +6,55 @@ class Footer extends Component {
       <div class="container">
         <div class="language">
           <ul>
-            <a href="#">
-              <li>Bahasa Indonesia</li>
-            </a>
-            <a href="#">
-              <li>English (UK)</li>
-            </a>
-            <a href="#">
-              <li>Basa Jawa</li>
-            </a>
-            <a href="#">
-              <li>Bahasa Melayu</li>
-            </a>
-            <a href="#">
-              <li>日本語</li>
-            </a>
-            <a href="#">
-              <li>العربية</li>
-            </a>
-            <a href="#">
-              <li>Français (France)</li>
-            </a>
-            <a href="#">
-              <li>Español</li>
-            </a>
-            <a href="#">
-              <li>한국어</li>
-            </a>
-            <a href="#">
-              <li>Deutsch</li>
-            </a>
-            <a href="#">
-              <li>Português (Brasil)</li>
-            </a>
-            <a href="#">
-              <li>
+            <li>
+              <a href="#">Bahasa Indonesia</a>
+            </li>
+
+            <li>
+              <a href="#">English (UK)</a>
+            </li>
+
+            <li>
+              <a href="#">Basa Jawa</a>
+            </li>
+
+            <li>
+              <a href="#">Bahasa Melayu</a>
+            </li>
+
+            <li>
+              <a href="#">日本語</a>
+            </li>
+
+            <li>
+              <a href="#">العربية</a>
+            </li>
+
+            <li>
+              <a href="#">Français (France)</a>
+            </li>
+
+            <li>
+              <a href="#">Español</a>
+            </li>
+
+            <li>
+              <a href="#">한국어</a>
+            </li>
+
+            <li>
+              <a href="#">Deutsch</a>
+            </li>
+
+            <li>
+              <a href="#">Português (Brasil)</a>
+            </li>
+
+            <li>
+              <a href="#">
                 <button>+</button>
-              </li>
-            </a>
+              </a>
+            </li>
           </ul>
         </div>
         <div class="navigation">
