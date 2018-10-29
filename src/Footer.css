@@ -1,20 +1,26 @@
 .container {
   display: flex;
   flex-direction: column;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin: 0 auto;
   font-size: 12px;
+  width: 960px;
+}
+
+.language ul {
+  display: flex;
 }
 
 ul {
+  /* display: flex; */
   list-style-type: none;
   margin: 0;
   padding: 0;
+  max-width: 100%;
 }
 
-li {
-  display: inline;
-}
+/* li {
+ display: inline;
+} */
 
 li a {
   padding: 14px 16px;
@@ -31,9 +37,18 @@ a li {
   border-bottom: solid rgb(146, 143, 143) 0.2px;
 }
 .navigation {
-  display: float;
+  display: flex;
   margin-top: 10px;
+  max-width: 100%;
 }
+
+.navigation ul li {
+  display: inline-block;
+}
+
+/* .language ul li {
+  display: inline-block;
+} */
 
 button {
   font-size: 10px;

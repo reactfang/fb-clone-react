@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./Footer.css";
 
 class Footer extends Component {
   render() {
@@ -59,63 +60,81 @@ class Footer extends Component {
         </div>
         <div class="navigation">
           <ul>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
-            <a href="#">
-              <li>lorem</li>
-            </a>
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
+
+            <li>
+              <a href="#">lorem</a>
+            </li>
           </ul>
         </div>
         <div>
