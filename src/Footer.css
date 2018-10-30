@@ -23,18 +23,19 @@ ul {
 } */
 
 li a {
-  padding: 14px 16px;
+  padding: 0 16px;
   text-decoration: none;
 }
 
 a li {
-  padding: 14px 16px;
+  padding: 0 16px;
   text-decoration: none;
 }
 
 .language {
   display: float;
   border-bottom: solid rgb(146, 143, 143) 0.2px;
+  padding-bottom: 10px;
 }
 .navigation {
   display: flex;

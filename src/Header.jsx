@@ -11,7 +11,6 @@ class Header extends Component {
               <img src={Fblogo} alt="test" />
             </a>
           </div>
-
           <div style={headerLogin}>
             <form style={{ marginTop: "10px" }}>
               <table>

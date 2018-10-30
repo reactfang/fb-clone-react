@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import Header from "./Header.js";
+import Header from "./Header";
+import Body from "./Body";
 import Footer from "./Footer";
 
 class App extends Component {
@@ -7,6 +8,7 @@ class App extends Component {
     return (
       <div>
         <Header />
+        <Body />
         <Footer />
       </div>
     );
